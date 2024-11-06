@@ -1,16 +1,20 @@
-<h1 align="left">Felipe Menegon</h1>
+<h2 align="left">Felipe Menegon</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">👨‍💻 I'm 19 years old and I'm from Brazil</p>
 
 ###
 
-<p align="left">💻 Mobile Developer | Flutter & Dart</p>
+<h3 align="left">About me</h3>
 
 ###
 
-<h2 align="left">My Techs</h2>
+<p align="left">💻 Mobile Developer.<br>📚 I'm currently learning.<br>🚀 I am always striving to improve!</p>
+
+###
+
+<h3 align="left">My Techs</h3>
 
 ###
 
@@ -30,7 +34,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h3 align="left">Social Media</h3>
 
 ###
 
@@ -45,7 +49,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h3 align="left">Stats</h3>
 
 ###
 
