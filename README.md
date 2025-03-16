@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🛠 My Techs</h4>
+<h3 align="left">🛠 My Techs</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">💻  Social</h4>
+<h3 align="left">💻  Social</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h4 align="left">🔎 Git Stats</h4>
+<h3 align="left">🔎 Git Stats</h3>
 
 ###
 
