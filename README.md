@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hey there 👋<br><br>🚀 Mobile Developer | Flutter & Dart | Software Engineering Student<br><br>I’m Felipe Menegon, a mobile app developer specializing in Flutter and Dart, and I am currently pursuing a degree in Software Engineering. I’m passionate about technology, and my mission is to continually learn and explore new advancements in the tech world.</p>
+<p align="left">Hey there 👋<br><br>I’m Felipe Menegon, a mobile app developer specializing in Flutter and Dart, and I am currently pursuing a degree in Software Engineering. I’m passionate about technology, and my mission is to continually learn and explore new advancements in the tech world.</p>
 
 ###
 
