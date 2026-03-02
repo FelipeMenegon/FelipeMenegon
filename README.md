@@ -49,13 +49,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔎 Git Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMenegon&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="194" alt="stats graph"  />
-</div>
-
-###
